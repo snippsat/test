@@ -1,4 +1,4 @@
 test
 ====
 http://imageshack.us/a/img10/710/eoqf.jpg
-<img src="/FredrikNoren/ungit/raw/master//screenshot.png" alt="" style="max-width:100%;">
+<img src="http://imageshack.us/a/img10/710/eoqf.jpg" alt="" style="max-width:100%;">
